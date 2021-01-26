@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Ceiling
+  - Enemy
+  - Weapon/Pistol
+  - Weapon/AR
+  - Weapon/Staff
+  - Weapon/Fire
+  - Weapon/Rocket
+  - HardObject
+  - Waypoint
+  - Throwables
+  - Enemy/Rushdown
+  - Enemy/Rocket
+  - RocketProjectile
+  - GravitySwitcher
+  - ObjectPooler
+  - Treasure
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - GroundObjects/Stairs
+  - GroundObjects/Furniture
+  - GroundObjects/Walls
+  - Weapons
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
