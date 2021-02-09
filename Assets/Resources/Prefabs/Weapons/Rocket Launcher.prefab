@@ -586,7 +586,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5434315080805874128
 Transform:
   m_ObjectHideFlags: 0
@@ -618,8 +618,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 5392256865546295793, guid: e5a1c886234f4e24c99d5a4f4a8c20ae, type: 3}
   decorProjectile: {fileID: 5136410779689822873}
+  reloadVisual: {fileID: 0}
   projectileCount: 1
+  reloadTime: 5
   projectileSpeed: 10
+  isReloading: 0
 --- !u!1 &5136410779689822873
 GameObject:
   m_ObjectHideFlags: 0

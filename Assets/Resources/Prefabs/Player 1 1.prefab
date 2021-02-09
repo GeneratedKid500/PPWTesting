@@ -2465,6 +2465,14 @@ PrefabInstance:
       propertyPath: LightsModule.intensityCurve.minScalar
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 451605640, guid: d676a5381cee7f946838aa2994fceacb, type: 3}
+      propertyPath: moveWithTransform
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 451605640, guid: d676a5381cee7f946838aa2994fceacb, type: 3}
+      propertyPath: CollisionModule.collidesWith.m_Bits
+      value: 3857
+      objectReference: {fileID: 0}
     - target: {fileID: 1683515648, guid: d676a5381cee7f946838aa2994fceacb, type: 3}
       propertyPath: m_Intensity
       value: 1.3
